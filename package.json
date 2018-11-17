@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/salesforce-ux/theo.git"
+    "url": "https://github.com/Yoigoshi/theo.git"
   },
   "authors": [
     "Salesforce and contributors",
@@ -47,9 +47,9 @@
     "Sönke Rohde <soenke.rohde@gmail.com>"
   ],
   "bugs": {
-    "url": "https://github.com/salesforce-ux/theo/issues"
+    "url": "https://github.com/Yoigoshi/theo/issues"
   },
-  "homepage": "https://github.com/salesforce-ux/theo",
+  "homepage": "https://github.com/Yoigoshi/theo",
   "dependencies": {
     "core.lambda": "1.0.0",
     "data.either": "1.5.1",
